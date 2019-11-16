@@ -62,17 +62,7 @@
     box-sizing: border-box;
     width: 1343px;
 }
-/*#myCanvas{
-  height:100%;
-  width:100%;
-  max-width:100%;
-  min-width:800px;
-  position:fixed;
-  bottom:0;
-  overflow: hidden;
-  z-index: 1;
-  top: 0;
-}*/
+
 .pop-in{
     padding: 20px;
     float: left;
